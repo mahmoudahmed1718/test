@@ -4,6 +4,8 @@ class Hoeme extends StatelessWidget {
   const Hoeme({Key? key}) : super(key: key);
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Scaffold(
+      body: Text(''),
+    );
   }
 }
